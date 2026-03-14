@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+    /*menahbahkan warna primary dan secondary*/
+    --color-hitam: #000000;
+    --color-putih: #ffffff;
+}
